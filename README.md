@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 🌏
+
+- 💬 Ask me about ?? anything!
+
+[![Franc-Brs GitHub stats](https://github-readme-stats.vercel.app/api?username=Franc-Brs&show_icons=true&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Franc-Brs)
+
 
 <!--
 **Franc-Brs/Franc-Brs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
