@@ -3,7 +3,7 @@
 
 - 💬 Ask me about ?? anything!
 
-| [![Franc-Brs GitHub stats](https://github-readme-stats.vercel.app/api?username=Franc-Brs&show_icons=true&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franc-Brs&langs_count=15&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  | 
+| [![Franc-Brs GitHub stats](https://github-readme-stats.vercel.app/api?username=Franc-Brs&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franc-Brs&langs_count=15&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  | 
 |---|---|
 
 ![](https://komarev.com/ghpvc/?username=Franc-Brs)
